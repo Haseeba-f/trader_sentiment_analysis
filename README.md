@@ -18,8 +18,8 @@ strategy recommendations based on observed patterns
 
 ### 1. Clone / Download this repo
 ```bash
-git clone <-repo-url>
-cd 
+git clone <-https://github.com/Haseeba-f/trader_sentiment_analysis>
+cd trader_sentiment_analysis
 ```
 
 ### 2. Install dependencies
